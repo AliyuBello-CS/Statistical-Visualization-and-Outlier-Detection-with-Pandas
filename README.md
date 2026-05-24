@@ -1,0 +1,2 @@
+1:11 PMClaude responded: Statistical Visualization and Outlier Detection with PandasStatistical Visualization and Outlier Detection with Pandas
+Performed exploratory data analysis across multiple datasets using Python and Pandas. Conducted sales comparisons, detected and removed outliers using IQR and standard deviation methods, and analyzed wine quality and Iris datasets through correlation matrices, histograms, scatter plots, and box plots to uncover patterns and statistical insights.
